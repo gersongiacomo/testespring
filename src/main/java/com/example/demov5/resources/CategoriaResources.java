@@ -10,6 +10,6 @@ public class CategoriaResources {
 
     @RequestMapping(method = RequestMethod.GET)
     public String listar() {
-        return "ok novo";
+        return "ok novo teste";
     }
 }
